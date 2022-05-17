@@ -36,5 +36,5 @@ Clone this repository into your working directory. Files should be compiled with
 
 ## Authors :black_nib:
 
-* Gideon Mokaya<[Ogega254](https://github.com/Ogega254)>
-* Gedeon Obae Gekonge <[Gedeonobae](https://github.com/Gedeonobae)>
+* Mwanaharusi Mlongo <[mwanaharusi40](https://github.com/mwanaharui40)>
+* Joseph Wambicho>
